@@ -60,7 +60,7 @@ print (ll.head.next.next.value)
 print (ll.get_position(3).value)
 
 # Test insert
-ll.insert(e4,6)
+new_element(6, 3)
 # Should print 6 now
 print (ll.get_position(3).value)
 
